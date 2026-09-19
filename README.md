@@ -1,4 +1,4 @@
-# ÉLANE Atelier
+# Zikra Arts
 
 A responsive commerce prototype for a premium Indian womenswear label. Built as a fast, dependency-free HTML/CSS/JavaScript experience.
 
