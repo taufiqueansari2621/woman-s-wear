@@ -27,4 +27,4 @@ python3 -m http.server 4173
 
 Then visit `http://localhost:4173`.
 
-Before deployment, replace `https://example.com` in `robots.txt` and `sitemap.xml` with the production domain.
+Production deployment: <https://woman-s-wear.valorled-store.workers.dev>
