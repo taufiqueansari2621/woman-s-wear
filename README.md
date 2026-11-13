@@ -1,5 +1,13 @@
 # Zikra Arts
 
+## UI preview
+
+![Zikra Arts interface](docs/previews/github-ui.png)
+
+Actual UI captured from the unchanged public repository served locally. The linked MIM page is a curated project presentation. This is a frontend prototype; no real order or payment processing is claimed.
+
+[MIM project presentation ↗](https://mimdevelopers.com/work/zikra-arts) · [Project screenshots and notes ↗](https://github.com/taufiqueansari2621/project-showcase/blob/main/projects/zikra-arts.md) · [More projects ↗](https://github.com/taufiqueansari2621/project-showcase)
+
 A responsive commerce prototype for a premium Indian womenswear label. Built as a fast, dependency-free HTML/CSS/JavaScript experience.
 
 ## Included
@@ -27,4 +35,6 @@ python3 -m http.server 4173
 
 Then visit `http://localhost:4173`.
 
-Production deployment: <https://woman-s-wear.valorled-store.workers.dev>
+Public project presentation: <https://mimdevelopers.com/work/zikra-arts>
+
+The former Workers deployment is currently unavailable. Use the local run steps above to explore this repository’s actual frontend.
